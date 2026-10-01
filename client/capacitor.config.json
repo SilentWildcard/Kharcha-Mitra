@@ -1,0 +1,8 @@
+{
+  "appId": "com.kharchamitra.app",
+  "appName": "Kharcha Mitra",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
